@@ -4,7 +4,6 @@ This project is a fully functional, voice-enabled AI chatbot built as a proof-of
 
 This prototype served as a successful R&D platform to validate the effectiveness of modern AI tools before building a production-ready solution.
 
----
 
 ## Features
 
