@@ -1,0 +1,14 @@
+# Python general
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# IDE / OS files
+.vscode/
+.DS_Store
+
+# Temporary files from our apps
+temp_*.wav
+temp_*.mp3
+temp_*.m4a

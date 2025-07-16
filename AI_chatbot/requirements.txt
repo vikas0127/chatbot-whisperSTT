@@ -1,0 +1,22 @@
+# Core App & UI 
+streamlit
+python-dotenv
+streamlit-mic-recorder
+
+# Data Handling
+pandas
+pypdf
+
+# AI LLM & Embeddings (Google)
+google-generativeai
+langchain-google-genai
+langchain
+langchain-community
+sentence-transformers
+
+# AI Vector Store
+faiss-cpu
+
+# AI Speech & Audio
+openai-whisper # For local transcription
+gTTS           # For text-to-speech
